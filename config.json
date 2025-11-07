@@ -1,7 +1,7 @@
 {
-  "BOT_TOKEN": "token",
-  "SERVER_URL": "ip:port_or_link",
-  "CHANNEL_ID": "channel_ID",
-  "DIRECT_CONNECT_LINK": "DIRECT_CONNECT_LINK",
+  const BOT_TOKEN = process.env.BOT_TOKEN;
+  "SERVER_URL": "45.137.98.110",
+  "CHANNEL_ID": "1435362829728219300",
+  "DIRECT_CONNECT_LINK": "https://uae-971-gm5kvo.users.cfx.re/",
   "updateMinutes": 1
 }
